@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+
 # TwitterUnfollowerExtension
+
 =======
-This is a chrome extension for people not following back and thinks we are their fans
-well so long loosers i am done
->>>>>>> 495bf3e (first commit)
+
+Are you trying to make your follower count match the number of people you're following? well there you go loser i got a script for ya
+
+To install first
+![test] (readme\extensions.png)
+
+> > > > > > > 495bf3e (first commit)
