@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "DO I LOOK LIKE A FAN OF YOURS ",
+  "description": "Basically unfollow all people who dont follow you back.",
+  "version": "1.0",
+  "action": {
+    "default_icon": "./popup/images/knight-logo.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting", "storage"]
+}
