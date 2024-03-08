@@ -7,6 +7,6 @@
 Are you trying to make your follower count match the number of people you're following? well there you go loser i got a script for ya
 
 To install first
-![Extensions](.\readme\extensions.png)
+![Extensions](readme\extensions.png)
 
 > > > > > > > 495bf3e (first commit)
