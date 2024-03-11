@@ -35,12 +35,10 @@ To use this extension, you need to log in to your Twitter account and go to your
 
 Once you are on your following list, you can:
 
-- Select the accounts you want to unfollow by clicking the checkboxes next to their names.
-- Filter the accounts by name, username, bio, or verified status using the search box on the top left corner.
-- Sort the accounts by date followed, followers, or following using the dropdown menu on the top right corner.
-- Preview the accounts you are about to unfollow by clicking the “Preview” button on the bottom left corner.
-- Unfollow the selected accounts by clicking the “Unfollow Selected” button on the bottom right corner.
-- Undo your last unfollow action by clicking the “Undo” button on the bottom right corner.
+- Click on the extension icon on the top right corner of your chrome browser
+- Select the accounts you dont want to unfollow by clicking remove button next to their names.
+- Filter the accounts by name, username
+- Unfollow the selected accounts by clicking the “Start Unfollowing" button on the bottom.
 
 ## User Interface
 
