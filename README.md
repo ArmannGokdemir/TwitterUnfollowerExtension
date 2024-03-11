@@ -23,7 +23,7 @@ To install this extension, you need to download the source code from this repo a
 Clone the Repository:
 
 Clone this repository to your local machine using  
- `git clone https://github.com/ArmannGokdemir/TwitterUnfollowerExtension.git`.
+ `git clone https://github.com/ArmannGokdemir/TwitterUnfollowerExtension.git`  
 Navigate to the Directory:
 Change to the directory where you cloned the repository:
 bash
